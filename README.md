@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mbkkong
+- 👀 I’m interested in NodeJS/DevOpsing
+- 🌱 I’m currently learning React :)
+- 📫 nasimi.mamedov@mbunity.com
