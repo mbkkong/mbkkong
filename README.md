@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbkkong
+- 👋 Hi, my name is Nasimi
 - 👀 I’m interested in NodeJS/DevOpsing
 - 🌱 I’m currently learning ow to be best manager :)
 - 📫 mbunity.com
