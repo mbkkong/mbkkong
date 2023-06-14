@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mbkkong
 - 👀 I’m interested in NodeJS/DevOpsing
-- 🌱 I’m currently learning React :)
+- 🌱 I’m currently learning ow to be best manager :)
 - 📫 mbunity.com
