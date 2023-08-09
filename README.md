@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Nasimi
-- 👀 I’m interested in NodeJS/DevOpsing
-- 🌱 I’m currently learning how to be best manager :)
-- 📫 mbunity.com
+- 👀 I’m interested in NodeJS/DevOpsing and ML!
+- 🌱 I’m currently learning how to be a good manager :)
+- 📫 measmerize.com
