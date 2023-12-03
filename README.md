@@ -1,4 +1,3 @@
-- 👋 Hi, my name is Nasimi
+- 👋 Hi, my name is Nasimi Mamedov
 - 👀 I’m interested in NodeJS/DevOpsing and ML!
-- 🌱 I’m currently learning how to be a good manager :)
-- 📫 measmerize.com
+- 📫 [mbunity.com](https://measmerize.com) / [measmerize.com](https://measmerize.com)
