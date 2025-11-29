@@ -1,6 +1,6 @@
-## 👋 Hi there
+# 👋 Hi, I'm Nasimi Mamedov
 
-I'm **Nasimi**. I'm a Full Stack Engineer who loves turning ideas into products.
+I'm a **Full Stack Software Engineer** who loves turning ideas into products.
 - ⚒️ **10+ years** shipping production apps.  
 - 🛠  I enjoy **rapid prototyping**, **clean architecture** & **UI animations**.
 - 🌱 Currently diving deeper into **AI Coding & Automatisation, tRPC**  
