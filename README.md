@@ -1,6 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&height=250&color=gradient&text=Nasimi%20Mamedov&section=header&reversal=true&textBg=false&animation=fadeIn&desc=Full%20Stack%20Engineer&descAlignY=75&descSize=25)
-
-
 ## 👋 Hi there
 
 I'm **Nasimi**. I'm a Full Stack Engineer who loves turning ideas into products.
